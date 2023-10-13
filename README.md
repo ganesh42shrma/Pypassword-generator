@@ -1,4 +1,4 @@
-# Pypassword-generator
+#password-generator-py
 
 ## Description
 
